@@ -13,6 +13,13 @@ your Chrome → captured posts become a source-linked report.
 [Recorded 64-second Instagram run][instagram-evidence] ·
 [TikTok video evidence][tiktok-evidence]
 
+Try v0.1.10 with Node 20+, Chrome already signed in, and an OpenRouter key:
+
+```sh
+npx github:socai-io/jev-social#v0.1.10 onboard
+npx github:socai-io/jev-social#v0.1.10
+```
+
 Jev Social supports read-only Instagram, TikTok, and LinkedIn research. It
 keeps partial and blocked runs visible instead of turning missing evidence into
 a success claim.
